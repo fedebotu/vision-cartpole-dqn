@@ -33,4 +33,4 @@ The GUI is a handy tool for saving and loading trained models, and also for
 training start/stop. Models and Graphs are saved in Vision_Carpole/save_model
 and Vision_Cartpole/save_graph respectively.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/fedebberto/Vision_Based_CartPole_DQN/blob/save_model/save_graph/Cartpole_Vision_Stop-142_LastEpNum-20.png?raw=true)
