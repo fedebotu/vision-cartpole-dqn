@@ -1,6 +1,6 @@
-# Vision_Based_CartPole_DQN
+# Vision-Based CartPole with DQN
 Implementation of the CartPole from OpenAI's Gym using only visual input 
-for Reinforcement Learning control with DQN
+for Reinforcement Learning control with Deep Q-Networks
 
 
 ***Author:*** Federico Berto
