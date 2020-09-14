@@ -33,7 +33,7 @@ when we detect stable improvements: this way we learn optimal behavior
 without saturation. 
 
 <p align="center">
-  <img src="https://github.com/Juju-botu/vision-cartpole-dqn/blob/save_model/resources/Cartpole-Architecture.png">
+  <img src="https://github.com/Juju-botu/vision-cartpole-dqn/blob/save_model/resources/Cartpole-Architecture.png" alt="DQN Architecture" width="500" height="600">
 </p>
 
 The GUI is a handy tool for saving and loading trained models, and also for
