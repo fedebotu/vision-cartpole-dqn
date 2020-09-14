@@ -2,10 +2,13 @@
 Implementation of the CartPole from OpenAI's Gym using only visual input 
 for Reinforcement Learning control with Deep Q-Networks
 
+<p align="center">
+  <img src="https://github.com/Juju-botu/vision-cartpole-dqn/blob/save_model/stabilization">
+</p>
 
 ***Author:*** Federico Berto
 
-============= Thesis Project for University of Bologna =============
+Thesis Project for University of Bologna;
 Reinforcement Learning: a Preliminary Study on Vision-Based Control
 
 A special thanks goes to gi`Adam Paszke <https://github.com/apaszke>`_, 
@@ -28,6 +31,10 @@ Besides, a target network to further stabilize the training process is used.
 make the training not converge, we set a threshold for stopping training
 when we detect stable improvements: this way we learn optimal behavior
 without saturation. 
+
+<p align="center">
+  <img src="https://github.com/Juju-botu/vision-cartpole-dqn/blob/save_model/resources/Cartpole-Architecture.png">
+</p>
 
 The GUI is a handy tool for saving and loading trained models, and also for
 training start/stop. Models and Graphs are saved in Vision_Carpole/save_model
