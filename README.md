@@ -3,7 +3,7 @@ Implementation of the CartPole from OpenAI's Gym using only visual input
 for Reinforcement Learning control with Deep Q-Networks
 
 <p align="center">
-  <img src="https://github.com/Juju-botu/vision-cartpole-dqn/blob/save_model/stabilization">
+  <img src="https://github.com/Juju-botu/vision-cartpole-dqn/blob/save_model/images/stabilization">
 </p>
 
 ***Author:*** Federico Berto
