@@ -59,9 +59,8 @@ You may find more information inside the PDF report too.
   <img src="https://github.com/Juju-botu/vision-cartpole-dqn/blob/save_model/images/score.png" alt="DQN Final Score over 6 Runs" height="500">
 </p>
 
-This is the final score averaged over 6 runs
+Final score averaged over 6 runs mean ± std
 
-If you want to improve this project, your help and constructive criticism is always welcome :)
-
+If you want to improve this project, your help is always welcome! 😄
 
 
